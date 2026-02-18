@@ -100,6 +100,7 @@ app.get("/", (req, res) => {
           <label>Password:</label><br/>
           <input type="password" name="password" /><br/><br/>
           <button type="submit">Login</button>
+          <p>Salope</p>
         </form>
       </body>
     </html>
